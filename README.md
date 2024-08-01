@@ -15,5 +15,21 @@ This repository contains a Python script that uses Selenium WebDriver to automat
 ## Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-auto-messenger.git
-   cd whatsapp-auto-messenger
+   git clone https://github.com/notft/automessagingbot.git
+   cd
+##
+2. **Create and Activate a Virtual Environment**:
+     ``` bash
+     python -m venv venv
+     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+##
+3. **Install Dependencies**
+      Download ChromeDriver:
+         Download the appropriate version for your Chrome browser from ChromeDriver.
+         Place the chromedriver executable in a directory that's included in your system's               PATH, or specify its location in the script.
+##
+4.   **Configuration:**
+      Edit wutsappboi.py to set your desired message and recipient.
+   
+   
+
